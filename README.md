@@ -1,17 +1,17 @@
 # Welbennys Kennedy
 
-**`Desenvolvedor Backend | Em Transição de Carreira para Tecnologia`**
+**`Desenvolvedor Full Stack | Em Transição de Carreira`**
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-💼 Profissional com sólida experiência em **Telecomunicações**, atualmente em transição para **Desenvolvimento de Software**.  
-🎓 Estudante de **Engenharia de Software (EAD - Brasil)**, motivado por desafios e movido por inovação.  
-🌍 Brasileiro morando em **Portugal**, com 28 anos, buscando oportunidades para atuar com **back-end, automações e IA aplicada**.
+💼 Profissional com experiência em **Telecomunicações**, atualmente migrando para a área de **Desenvolvimento de Software**.  
+🎓 Estudante de **Engenharia de Software (EAD - Brasil)**, apaixonado por resolver problemas com código.  
+🌍 Brasileiro vivendo em **Portugal**, com 28 anos, focado em projetos práticos com impacto real.
 
-📌 Foco atual: **Python**, **HTML**, **CSS**, **JavaScript**, **React.js** e **Inteligência Artificial**  
-🚀 Objetivo: Desenvolver soluções modernas, funcionais e inteligentes como **Dev Backend**.
+📌 Foco atual: **Python**, **Selenium**, **Django**, **HTML**, **CSS**, **JavaScript** e **React**  
+🚀 Objetivo: Atuar como **Desenvolvedor Backend**, com foco em **automação e soluções web inteligentes**.
 
 > _"A prática de hoje é o sucesso de amanhã."_ 💬
 
@@ -35,27 +35,28 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
+<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Selenium" title="Selenium" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+<img align="left" alt="Django" title="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="AI" title="Inteligência Artificial com Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 
 <br/>
 <br/>
 
 ---
 
-## 🤖 Habilidades em Inteligência Artificial
+## 🔧 Habilidades em Destaque
 
-🧠 Conhecimentos práticos em:
-- Modelos de Machine Learning com **Python (Scikit-Learn, Pandas, Numpy)**
-- Aplicações com **OpenCV e OCR** para automação com visão computacional
-- Criação de scripts de análise e predição com dados reais
-- Integrações com **APIs de IA** (ChatGPT/OpenAI)
-
-📍 Explorando projetos de automação inteligente, bots preditivos e análise de dados com IA.
+✅ Automação com Python – bots, tarefas repetitivas, interações com APIs e WebScraping
+✅ Selenium – automação de testes e navegação web sem intervenção humana
+✅ Django – desenvolvimento de aplicações web robustas com backend em Python
+✅ Análise de Dados – uso de Pandas, NumPy e Matplotlib para leitura, transformação e visualização de dados
+✅ HTML & CSS – criação de páginas web responsivas e bem estruturadas
+✅ JavaScript – interatividade e lógica de front-end para aplicações web
+✅ React.js – construção de interfaces modernas, reutilizáveis e dinâmicas com foco em performance
 
 ---
 
@@ -70,15 +71,15 @@
 ## 📡 Experiência Profissional
 
 🔧 **Área Técnica em Telecomunicações**  
-➡️ Atuação com redes de fibra óptica, configuração de equipamentos, suporte e testes técnicos.  
-🎯 Competências transferíveis: lógica, organização, resolução de problemas, documentação técnica e disciplina operacional.
+➡️ Experiência com redes de fibra óptica, configuração de equipamentos, suporte técnico e manutenção.  
+🎯 Habilidades transferíveis: raciocínio lógico, foco em solução de problemas e documentação técnica.
 
 ---
 
-## 🛠️ Em constante evolução
+## 🧠 Em aprendizado contínuo
 
-📚 Desenvolvendo projetos próprios, participando de comunidades e me capacitando com foco em soluções reais.  
-📂 Veja meus repositórios e acompanhe minha jornada de transição para a tecnologia!
+📚 Construindo projetos práticos com foco em automação, inteligência de dados e soluções web.  
+📂 Acompanhe meus repositórios para ver minha evolução como desenvolvedor!
 
 ---
 
