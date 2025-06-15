@@ -1,23 +1,23 @@
 # Welbennys Kennedy
 
-**`Desenvolvedor Full Stack | Em Transição de Carreira`**
+**`Full Stack Developer | Career Transition`**
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-💼 Profissional com experiência em **Telecomunicações**, atualmente migrando para a área de **Desenvolvimento de Software**.  
-🎓 Estudante de **Engenharia de Software (EAD - Brasil)**, apaixonado por resolver problemas com código.  
-🌍 Brasileiro vivendo em **Portugal**, com 28 anos, focado em projetos práticos com impacto real.
+💼 Professional with experience in **Telecommunications**, currently transitioning into **Software Development**.  
+🎓 Studying **Software Engineering (Distance Learning - Brazil)**, passionate about solving problems through code.  
+🌍 Brazilian living in **Portugal**, 28 years old, focused on practical projects with real-world impact.
 
-📌 Foco atual: **Python**, **Selenium**, **Django**, **HTML**, **CSS**, **JavaScript** e **React**  
-🚀 Objetivo: Atuar como **Desenvolvedor Full Stack**, com foco em **automação e soluções web inteligentes**.
+📌 Current focus: **Python**, **Selenium**, **Django**, **HTML**, **CSS**, **JavaScript**, and **React**  
+🚀 Goal: Work as a **Full Stack Developer**, focusing on **automation and smart web solutions**.
 
-> _"A prática de hoje é o sucesso de amanhã."_ 💬
+> _"Today's practice is tomorrow's success."_ 💬
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/welbennys-kenedy-a44a21208/" target="_blank">
@@ -30,13 +30,13 @@
         <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://welbennyskennedy.github.io/portifolio-responsivo/" target="_blank">
-        <img alt="Portfólio" title="Ver Portfólio" src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=github&logoColor=white"/>
+        <img alt="Portfolio" title="View Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies & Tools
 
 <img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Selenium" title="Selenium" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
@@ -51,38 +51,38 @@
 
 ---
 
-## 🔧 Habilidades em Destaque
+## 🔧 Key Skills
 
-✅ Automação com Python – bots, tarefas repetitivas, interações com APIs e WebScraping  
-✅ Selenium – automação de testes e navegação web sem intervenção humana  
-✅ Django – desenvolvimento de aplicações web robustas com backend em Python  
-✅ Análise de Dados – uso de Pandas, NumPy e Matplotlib para leitura, transformação e visualização de dados  
-✅ HTML & CSS – criação de páginas web responsivas e bem estruturadas  
-✅ JavaScript – interatividade e lógica de front-end para aplicações web  
-✅ React.js – construção de interfaces modernas, reutilizáveis e dinâmicas com foco em performance
+✅ Python Automation – bots, repetitive tasks, API interactions, and web scraping  
+✅ Selenium – browser automation and testing with no human interaction  
+✅ Django – building robust backend web applications with Python  
+✅ Data Analysis – using Pandas, NumPy, and Matplotlib for data processing and visualization  
+✅ HTML & CSS – responsive and well-structured web page creation  
+✅ JavaScript – interactivity and front-end logic for web applications  
+✅ React.js – modern, reusable, and high-performance UI components
 
 ---
 
 ## 📈 GitHub Stats
 
 <p>
-  <img alt="Welbennys Kennedy GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=WelbennysKennedy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img alt="Welbennys Kennedy GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=WelbennysKennedy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
 </p>
 
 ---
 
-## 📡 Experiência Profissional
+## 📡 Professional Experience
 
-🔧 **Área Técnica em Telecomunicações**  
-➡️ Experiência com redes de fibra óptica, configuração de equipamentos, suporte técnico e manutenção.  
-🎯 Habilidades transferíveis: raciocínio lógico, foco em solução de problemas e documentação técnica.
+🔧 **Technical Role in Telecommunications**  
+➡️ Experience with fiber optic networks, equipment configuration, technical support, and maintenance.  
+🎯 Transferable skills: logical thinking, problem-solving, and technical documentation.
 
 ---
 
-## 🧠 Em aprendizado contínuo
+## 🧠 Continuous Learning
 
-📚 Construindo projetos práticos com foco em automação, inteligência de dados e soluções web.  
-📂 Acompanhe meus repositórios para ver minha evolução como desenvolvedor!
+📚 Building practical projects focused on automation, data intelligence, and web solutions.  
+📂 Check out my repositories to follow my journey as a developer!
 
 ---
 
