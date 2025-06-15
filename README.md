@@ -1,17 +1,17 @@
 # Welbennys Kennedy
 
-**`Desenvolvedor Backend em Transição de Carreira`**
+**`Desenvolvedor Backend | Em Transição de Carreira para Tecnologia`**
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-💼 Profissional com experiência em **Telecomunicações**, atualmente em transição para a área de **Programação e Desenvolvimento de Software**.  
-🎓 Estudante de **Engenharia de Software (EAD - Brasil)**, buscando constante evolução com projetos práticos.  
-🌍 Brasileiro, vivendo em **Portugal**, com 28 anos e motivado a transformar desafios em soluções através da tecnologia.  
+💼 Profissional com sólida experiência em **Telecomunicações**, atualmente em transição para **Desenvolvimento de Software**.  
+🎓 Estudante de **Engenharia de Software (EAD - Brasil)**, motivado por desafios e movido por inovação.  
+🌍 Brasileiro morando em **Portugal**, com 28 anos, buscando oportunidades para atuar com **back-end, automações e IA aplicada**.
 
-📌 Foco atual: **Python**, **HTML**, **CSS**, **JavaScript** e **React.js**.  
-🚀 Objetivo: Atuar como **Desenvolvedor Backend** e crescer profissionalmente no universo da tecnologia.
+📌 Foco atual: **Python**, **HTML**, **CSS**, **JavaScript**, **React.js** e **Inteligência Artificial**  
+🚀 Objetivo: Desenvolver soluções modernas, funcionais e inteligentes como **Dev Backend**.
 
 > _"A prática de hoje é o sucesso de amanhã."_ 💬
 
@@ -33,57 +33,36 @@
 
 ---
 
-## 🚀 Tecnologias em foco
+## 🚀 Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-/>
+<img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="AI" title="Inteligência Artificial com Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 
 <br/>
 <br/>
 
 ---
 
+## 🤖 Habilidades em Inteligência Artificial
+
+🧠 Conhecimentos práticos em:
+- Modelos de Machine Learning com **Python (Scikit-Learn, Pandas, Numpy)**
+- Aplicações com **OpenCV e OCR** para automação com visão computacional
+- Criação de scripts de análise e predição com dados reais
+- Integrações com **APIs de IA** (ChatGPT/OpenAI)
+
+📍 Explorando projetos de automação inteligente, bots preditivos e análise de dados com IA.
+
+---
+
 ## 📈 GitHub Stats
 
 <p>
-  <img 
-    alt="Welbennys Kennedy GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=WelbennysKennedy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  <img alt="Welbennys Kennedy GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=WelbennysKennedy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 </p>
 
 ---
@@ -91,15 +70,15 @@
 ## 📡 Experiência Profissional
 
 🔧 **Área Técnica em Telecomunicações**  
-➡️ Atuação com redes de fibra óptica, configuração de equipamentos e suporte a infraestrutura.  
-🎯 Habilidades transferíveis: lógica, análise de problemas, atenção a detalhes e documentação técnica.
+➡️ Atuação com redes de fibra óptica, configuração de equipamentos, suporte e testes técnicos.  
+🎯 Competências transferíveis: lógica, organização, resolução de problemas, documentação técnica e disciplina operacional.
 
 ---
 
-## 📚 Aprendizado Contínuo
+## 🛠️ Em constante evolução
 
-📖 Buscando evoluir com cursos, projetos próprios e participação em comunidades de desenvolvedores.  
-🛠️ Portfólio em construção, com foco em automações, interfaces responsivas e soluções reais.
+📚 Desenvolvendo projetos próprios, participando de comunidades e me capacitando com foco em soluções reais.  
+📂 Veja meus repositórios e acompanhe minha jornada de transição para a tecnologia!
 
 ---
 
