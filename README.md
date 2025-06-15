@@ -11,7 +11,7 @@
 🌍 Brasileiro vivendo em **Portugal**, com 28 anos, focado em projetos práticos com impacto real.
 
 📌 Foco atual: **Python**, **Selenium**, **Django**, **HTML**, **CSS**, **JavaScript** e **React**  
-🚀 Objetivo: Atuar como **Desenvolvedor Backend**, com foco em **automação e soluções web inteligentes**.
+🚀 Objetivo: Atuar como **Desenvolvedor Full Stack**, com foco em **automação e soluções web inteligentes**.
 
 > _"A prática de hoje é o sucesso de amanhã."_ 💬
 
