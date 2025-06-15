@@ -20,14 +20,17 @@
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" target="_blank">
+    <a href="https://www.linkedin.com/in/welbennys-kenedy-a44a21208/" target="_blank">
         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://www.instagram.com/seu-usuario-instagram/" target="_blank">
         <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="mailto:seuemail@exemplo.com" target="_blank">
+    <a href="mailto:welbeneskenedy@gmail.com" target="_blank">
         <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://welbennyskennedy.github.io/portifolio-responsivo/" target="_blank">
+        <img alt="Portfólio" title="Ver Portfólio" src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </p>
 
@@ -50,12 +53,12 @@
 
 ## 🔧 Habilidades em Destaque
 
-✅ Automação com Python – bots, tarefas repetitivas, interações com APIs e WebScraping
-✅ Selenium – automação de testes e navegação web sem intervenção humana
-✅ Django – desenvolvimento de aplicações web robustas com backend em Python
-✅ Análise de Dados – uso de Pandas, NumPy e Matplotlib para leitura, transformação e visualização de dados
-✅ HTML & CSS – criação de páginas web responsivas e bem estruturadas
-✅ JavaScript – interatividade e lógica de front-end para aplicações web
+✅ Automação com Python – bots, tarefas repetitivas, interações com APIs e WebScraping  
+✅ Selenium – automação de testes e navegação web sem intervenção humana  
+✅ Django – desenvolvimento de aplicações web robustas com backend em Python  
+✅ Análise de Dados – uso de Pandas, NumPy e Matplotlib para leitura, transformação e visualização de dados  
+✅ HTML & CSS – criação de páginas web responsivas e bem estruturadas  
+✅ JavaScript – interatividade e lógica de front-end para aplicações web  
 ✅ React.js – construção de interfaces modernas, reutilizáveis e dinâmicas com foco em performance
 
 ---
@@ -82,4 +85,5 @@
 📂 Acompanhe meus repositórios para ver minha evolução como desenvolvedor!
 
 ---
+
 
